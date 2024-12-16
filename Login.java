@@ -1,4 +1,3 @@
-package AirlineManagementSystem;
 
 import java.awt.*; 
 import javax.swing.*;
